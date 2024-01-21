@@ -2,7 +2,7 @@
 - 👀 I’m interested in analitycs, DataScience and other beautiful math in this world. 
 - 📫 How to reach me:
 https://www.facebook.com/mk.radix | 
-https://vk.com/ma_radix
+Telegram: @ma_radix
 
 <!---
 ma-radix/ma-radix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
